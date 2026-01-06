@@ -1,0 +1,11 @@
+import java.util.*;
+// armstrong Number 153=1^3+5^3+3^3
+class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner (System.in);
+        int n = sc.nextInt();
+        int q = n;
+        
+        System.out.println(q);
+    }
+}
